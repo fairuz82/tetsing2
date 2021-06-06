@@ -1,5 +1,4 @@
-More Than 215 ++ IPTV. last updated 4th June2021 - cctv1-15 updated
-100% working on kodi and Iptv client/TV box. Mainly for Malaysia/Indonesia/Singapore.
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="Malaysia",8TV
