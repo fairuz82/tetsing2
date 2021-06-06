@@ -736,4 +736,4 @@ http://185.180.221.194:8278/streams/d/Suntv/playlist.m3u8
 #EXTINF:-1 tvg-id="zee.my" tvg-name="Astro Zee" tvg-country="MY" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png" tvg-url="" group-title="Malaysia", Zee Tamil
 http://185.180.221.194:8278/streams/d/Zeetamil/playlist.m3u8
 
-https://www.yamcode.com/raw/nasi-campur-iptv-200-channels
+
